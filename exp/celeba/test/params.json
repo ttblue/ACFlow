@@ -21,7 +21,7 @@
     "decay_rate": 0.5,
     "clip_gradient": 100,
     "restore_from": "",
-    "exp_dir": "./exp/celeba_final/rnvp",
+    "exp_dir": "./exp/celeba/test",
     "print_freq": -1,
     "summ_freq": 1000,
     "num_samples": 1,
